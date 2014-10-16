@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[agk:home|Door43 (agk)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-agk|d43-agk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-agk/archive/master.zip|d43-agk.zip]]
+
+**Recent Changes**
+{{changes>ns = agk}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/agk|Ethnologue data]]
+
